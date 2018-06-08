@@ -7,3 +7,5 @@
 2. Customize [lambda_function.py](https://github.com/Skkrypto/web3py_lambda_example/blob/master/lambda_function.py)
 3. Make .zip File
 4. Upload as .zip on AWS Lambda
+
+**You Should use AWS Lambda Environment Variable for Private Key**
